@@ -44,5 +44,3 @@ if results:
 else:
     print("No results found")
 
-
-# app_password = 'ujzh gohn qzlq mwzv'
